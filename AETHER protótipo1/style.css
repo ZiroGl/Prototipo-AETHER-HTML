@@ -1,0 +1,97 @@
+.container1 {
+    margin: 0;
+    display: flex;
+    background-color: #1563FD;
+    justify-content: center;
+    width: 100%;
+    height: 16vh;
+
+}
+
+#Titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: azure;
+    margin: 0;
+    margin-top: 3vh;
+    text-shadow: 3px 3px 5px black
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    background-color: #4E6CFB;
+    width: 100%;
+    height: 7vh;
+    gap: 50vh;
+}
+
+.Link_submenu {
+    padding-top: 10px;
+    color: aliceblue;
+
+}
+
+.secao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+#container3 {
+    margin: 0;
+    margin-top: 10px;
+    background-color: #4E6CFB;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 80vh;
+    border-radius: 5vh;
+    box-shadow: 3px 3px 10px black;
+
+}
+
+#container4 {
+    margin: 0;
+    margin-top: 10px;
+    background-color: #4E6CFB;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 80vh;
+    border-radius: 5vh;
+    box-shadow: 3px 3px 10px black;
+
+}
+
+#alguns_produtos {
+    color: aliceblue;
+    margin-top: 35%;
+}
+
+#opções_para_você {
+    color: aliceblue;
+    margin-top: 35%;
+}
+
+
+#txtrodape {
+    margin: 0;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    background-color: #1563FD;
+    margin-top: 10px;
+    gap: 50%;
+}
+#clique_aqui{
+    color: aliceblue;
+    margin-left: 5px;
+}
+#AETHER_rodape{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+   
+}
